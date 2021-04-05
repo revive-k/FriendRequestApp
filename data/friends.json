@@ -1,0 +1,25 @@
+[{
+    "username": "A",
+    "friendRequests": ["E"],
+    "friends": ["B"]
+}, {
+    "username": "B",
+    "friendRequests": [],
+    "friends": ["A", "C", "F"]
+}, {
+    "username": "C",
+    "friendRequests": [],
+    "friends": ["B"]
+}, {
+    "username": "D",
+    "friendRequests": ["B"],
+    "friends": ["F"]
+}, {
+    "username": "E",
+    "friendRequests": ["B"],
+    "friends": []
+}, {
+    "username": "F",
+    "friendRequests": [],
+    "friends": ["B", "D"]
+}]
